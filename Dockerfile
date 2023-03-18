@@ -22,6 +22,7 @@ RUN apt-get update && \
     gnupg2 \
     software-properties-common \
     wine \
+    wine32 \
     wine64
 
 # Create various folders
